@@ -1,4 +1,7 @@
-## Hi there 👋
+## bladh
+
+I do android development. I like Java and Kotlin.
+I enjoy making games, but do not have the time for it. Pico-8 and megadrive homebrew is interesting lately, but also dos dev.
 
 <!--
 **bladh/bladh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
